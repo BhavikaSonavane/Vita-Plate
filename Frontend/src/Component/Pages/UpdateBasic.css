@@ -1,0 +1,16 @@
+.update-basic-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem 1rem;
+    background: #f9f9f9;
+    min-height: 65vh;
+  }
+  
+  .update-basic-card {
+    max-width: 600px;
+    width: 100%;
+    background-color: white;
+    border-radius: 1rem;
+  }
+  
